@@ -14,7 +14,19 @@ Coding Storybook is a concept designed for young children around 5-7 to learn co
 
 [Babatunde Adegoke](https://github.com/degokay)
 
+## Video
 
+[Video Documentation](https://drive.google.com/file/d/1SnbOF03V54Yr7fD-71VLAi23hSaWVULb/view?usp=sharing).
+
+Video (compressed, please go to the link above for a better quality one):
+<iframe src="https://player.vimeo.com/video/268519887" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/268519887">Coding Storybook (compressed)</a> from <a href="https://vimeo.com/user7313813">Siqi Feng</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+This is a video about the following:
+- Demonstration on the final model and demo;
+- Process of building the model;
+- Design of the storybook;
+- Demo of the code, including the webcam function we finally could not utilize.
 
 ## Code
 [Find the project code here](https://github.com/degokay/Coding-Storybook/blob/master/Project%20code)
@@ -24,19 +36,6 @@ The Topcode library could not be used for the project since the library does not
 
 While this is a course work, it should be noted that it is the project of Junnan and this project might explore the above listed solutions and likely, this page may be updated in the future. 
 
-## Video
-
-[Video Documentation](https://drive.google.com/file/d/1SnbOF03V54Yr7fD-71VLAi23hSaWVULb/view?usp=sharing).
-
-Video (compressed, please go to index.md for a better quality one):
-<iframe src="https://player.vimeo.com/video/268519887" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/268519887">Coding Storybook (compressed)</a> from <a href="https://vimeo.com/user7313813">Siqi Feng</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-This is a video about the following:
-- Demonstration on the final model and demo;
-- Process of building the model;
-- Design of the storybook;
-- Demo of the code, including the webcam function we finally could not utilize.
 
 ## Resources
 - [TopCode Library](http://users.eecs.northwestern.edu/~mhorn/topcodes/)
