@@ -26,7 +26,7 @@ While this is a course work, it should be noted that it is the project of Junnan
 
 ## Video
 
-[Video Documentation](https://drive.google.com/file/d/1SnbOF03V54Yr7fD-71VLAi23hSaWVULb/view?usp=sharing)
+[Video Documentation](https://drive.google.com/file/d/1SnbOF03V54Yr7fD-71VLAi23hSaWVULb/view?usp=sharing).
 
 Video (compressed, please go to index.md for a better quality one):
 <iframe src="https://player.vimeo.com/video/268519887" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
